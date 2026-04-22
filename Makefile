@@ -3,4 +3,4 @@
 all: hello
 
 hello:
-	bash lib/hello.sh
+	bash lib/greeter.sh
