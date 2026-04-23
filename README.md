@@ -5,6 +5,19 @@ This project was done to practice Git from the beginning up to more advanced tas
 The work was first done locally, then pushed to remote repositories for review.
 
 ## Work directory
+This project structure was;
+Setting Up Git
+Git commits
+History
+Check it out
+TAG me
+Changed your mind?
+Move it
+blobs, trees and commits
+Branching
+Conflicts, merging and rebasing
+Local and remote repositories
+Bare repositories
 
 The project was organized inside a work directory:
 
